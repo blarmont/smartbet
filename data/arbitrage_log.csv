@@ -1,0 +1,95 @@
+timestamp,sport,team1,team2,odds1,book1,odds2,book2,stake1,stake2,profit,total_prob
+2025-04-17 13:37:31,soccer_epl,Bournemouth,Crystal Palace,2.75,BetMGM,2.66,LowVig.ag,49.17,50.83,35.21,0.7396
+2025-04-17 13:37:31,soccer_epl,Brentford,Brighton and Hove Albion,2.55,LowVig.ag,2.85,BetRivers,52.78,47.22,34.58,0.7430
+2025-04-17 13:37:31,soccer_epl,Everton,Manchester City,4.0,FanDuel,1.98,BetOnline.ag,33.11,66.89,32.44,0.7551
+2025-04-17 13:37:31,soccer_epl,Southampton,West Ham United,6.75,BetRivers,1.51,BetOnline.ag,18.28,81.72,23.4,0.8104
+2025-04-17 13:37:31,soccer_epl,Aston Villa,Newcastle United,2.45,DraftKings,2.92,BetOnline.ag,54.38,45.62,33.22,0.7506
+2025-04-17 13:37:31,soccer_epl,Arsenal,Ipswich Town,1.43,BetMGM,8.35,LowVig.ag,85.38,14.62,22.09,0.8191
+2025-04-17 13:37:31,soccer_epl,Chelsea,Fulham,2.46,LowVig.ag,2.88,BetRivers,53.93,46.07,32.67,0.7537
+2025-04-17 13:37:31,soccer_epl,Manchester United,Wolverhampton Wanderers,2.02,LowVig.ag,3.8,LowVig.ag,65.29,34.71,31.89,0.7582
+2025-04-17 13:37:31,soccer_epl,Leicester City,Liverpool,12.5,BetRivers,1.24,DraftKings,9.02,90.98,12.81,0.8865
+2025-04-17 13:37:31,soccer_epl,Nottingham Forest,Tottenham Hotspur,2.7,BetRivers,2.55,FanDuel,48.57,51.43,31.14,0.7625
+2025-04-17 13:37:31,soccer_epl,Aston Villa,Manchester City,4.3,FanDuel,1.75,BetRivers,28.93,71.07,24.38,0.8040
+2025-04-17 13:37:31,soccer_epl,Arsenal,Crystal Palace,1.5,BetMGM,7.0,FanDuel,82.35,17.65,23.53,0.8095
+2025-04-17 13:37:31,soccer_epl,Chelsea,Everton,1.74,FanDuel,5.3,BetRivers,75.28,24.72,30.99,0.7634
+2025-04-17 13:37:31,soccer_epl,Brighton and Hove Albion,West Ham United,1.67,BetMGM,5.1,FanDuel,75.33,24.67,25.81,0.7949
+2025-04-17 13:37:31,soccer_epl,Fulham,Southampton,1.62,FanDuel,5.5,BetRivers,77.25,22.75,25.14,0.7991
+2025-04-17 13:37:31,soccer_epl,Ipswich Town,Newcastle United,12.0,FanDuel,1.25,Bovada,9.43,90.57,13.21,0.8833
+2025-04-17 13:37:31,soccer_epl,Leicester City,Wolverhampton Wanderers,5.8,FanDuel,1.62,Bovada,21.83,78.17,26.63,0.7897
+2025-04-17 13:37:31,soccer_epl,Bournemouth,Manchester United,2.05,BetMGM,3.6,FanDuel,63.72,36.28,30.62,0.7656
+2025-04-17 13:37:31,soccer_epl,Liverpool,Tottenham Hotspur,1.35,BetRivers,8.0,FanDuel,85.56,14.44,15.51,0.8657
+2025-04-17 13:37:31,soccer_epl,Brentford,Nottingham Forest,3.3,FanDuel,2.2,DraftKings,40.0,60.0,32.0,0.7576
+2025-04-17 13:37:32,baseball_mlb,Arizona Diamondbacks,Miami Marlins,1.16,MyBookie.ag,14.0,DraftKings,92.35,7.65,7.12,0.9335
+2025-04-17 13:37:32,baseball_mlb,Pittsburgh Pirates,Washington Nationals,1.44,BetMGM,3.35,MyBookie.ag,69.94,30.06,0.71,0.9930
+2025-04-17 13:37:32,baseball_mlb,Cincinnati Reds,Seattle Mariners,2.1,BetMGM,3.15,MyBookie.ag,60.0,40.0,26.0,0.7937
+2025-04-17 13:38:26,soccer_epl,Bournemouth,Crystal Palace,2.75,BetMGM,2.66,LowVig.ag,49.17,50.83,35.21,0.7396
+2025-04-17 13:38:26,soccer_epl,Brentford,Brighton and Hove Albion,2.55,LowVig.ag,2.85,BetRivers,52.78,47.22,34.58,0.7430
+2025-04-17 13:38:26,soccer_epl,Everton,Manchester City,4.0,FanDuel,1.98,BetOnline.ag,33.11,66.89,32.44,0.7551
+2025-04-17 13:38:26,soccer_epl,Southampton,West Ham United,6.75,BetRivers,1.51,BetOnline.ag,18.28,81.72,23.4,0.8104
+2025-04-17 13:38:26,soccer_epl,Aston Villa,Newcastle United,2.45,DraftKings,2.92,BetOnline.ag,54.38,45.62,33.22,0.7506
+2025-04-17 13:38:26,soccer_epl,Arsenal,Ipswich Town,1.43,BetMGM,8.35,LowVig.ag,85.38,14.62,22.09,0.8191
+2025-04-17 13:38:26,soccer_epl,Chelsea,Fulham,2.46,LowVig.ag,2.88,BetRivers,53.93,46.07,32.67,0.7537
+2025-04-17 13:38:26,soccer_epl,Manchester United,Wolverhampton Wanderers,2.02,LowVig.ag,3.8,LowVig.ag,65.29,34.71,31.89,0.7582
+2025-04-17 13:38:26,soccer_epl,Leicester City,Liverpool,12.5,BetRivers,1.24,DraftKings,9.02,90.98,12.81,0.8865
+2025-04-17 13:38:26,soccer_epl,Nottingham Forest,Tottenham Hotspur,2.7,BetRivers,2.55,FanDuel,48.57,51.43,31.14,0.7625
+2025-04-17 13:38:26,soccer_epl,Aston Villa,Manchester City,4.3,FanDuel,1.75,BetRivers,28.93,71.07,24.38,0.8040
+2025-04-17 13:38:26,soccer_epl,Arsenal,Crystal Palace,1.5,BetMGM,7.0,FanDuel,82.35,17.65,23.53,0.8095
+2025-04-17 13:38:26,soccer_epl,Chelsea,Everton,1.74,FanDuel,5.3,BetRivers,75.28,24.72,30.99,0.7634
+2025-04-17 13:38:26,soccer_epl,Brighton and Hove Albion,West Ham United,1.67,BetMGM,5.1,FanDuel,75.33,24.67,25.81,0.7949
+2025-04-17 13:38:26,soccer_epl,Fulham,Southampton,1.62,FanDuel,5.5,BetRivers,77.25,22.75,25.14,0.7991
+2025-04-17 13:38:26,soccer_epl,Ipswich Town,Newcastle United,12.0,FanDuel,1.25,Bovada,9.43,90.57,13.21,0.8833
+2025-04-17 13:38:26,soccer_epl,Leicester City,Wolverhampton Wanderers,5.8,FanDuel,1.62,Bovada,21.83,78.17,26.63,0.7897
+2025-04-17 13:38:26,soccer_epl,Bournemouth,Manchester United,2.05,BetMGM,3.6,FanDuel,63.72,36.28,30.62,0.7656
+2025-04-17 13:38:26,soccer_epl,Liverpool,Tottenham Hotspur,1.35,BetRivers,8.0,FanDuel,85.56,14.44,15.51,0.8657
+2025-04-17 13:38:26,soccer_epl,Brentford,Nottingham Forest,3.3,FanDuel,2.2,DraftKings,40.0,60.0,32.0,0.7576
+2025-04-17 13:38:26,baseball_mlb,Arizona Diamondbacks,Miami Marlins,1.16,MyBookie.ag,14.0,DraftKings,92.35,7.65,7.12,0.9335
+2025-04-17 13:38:26,baseball_mlb,Pittsburgh Pirates,Washington Nationals,1.44,BetMGM,3.35,MyBookie.ag,69.94,30.06,0.71,0.9930
+2025-04-17 13:38:26,baseball_mlb,Cincinnati Reds,Seattle Mariners,2.1,BetMGM,3.15,MyBookie.ag,60.0,40.0,26.0,0.7937
+2025-04-17 13:44:54,soccer_epl,Bournemouth,Crystal Palace,2.75,BetMGM,2.66,LowVig.ag,49.17,50.83,35.21,0.7396
+2025-04-17 13:44:54,soccer_epl,Brentford,Brighton and Hove Albion,2.55,LowVig.ag,2.85,BetRivers,52.78,47.22,34.58,0.7430
+2025-04-17 13:44:54,soccer_epl,Everton,Manchester City,4.0,FanDuel,1.98,BetOnline.ag,33.11,66.89,32.44,0.7551
+2025-04-17 13:44:54,soccer_epl,Southampton,West Ham United,6.75,BetRivers,1.51,BetOnline.ag,18.28,81.72,23.4,0.8104
+2025-04-17 13:44:54,soccer_epl,Aston Villa,Newcastle United,2.45,DraftKings,2.92,BetOnline.ag,54.38,45.62,33.22,0.7506
+2025-04-17 13:44:54,soccer_epl,Arsenal,Ipswich Town,1.43,BetMGM,8.35,LowVig.ag,85.38,14.62,22.09,0.8191
+2025-04-17 13:44:54,soccer_epl,Chelsea,Fulham,2.46,LowVig.ag,2.88,BetRivers,53.93,46.07,32.67,0.7537
+2025-04-17 13:44:54,soccer_epl,Manchester United,Wolverhampton Wanderers,2.02,LowVig.ag,3.8,LowVig.ag,65.29,34.71,31.89,0.7582
+2025-04-17 13:44:54,soccer_epl,Leicester City,Liverpool,12.5,BetRivers,1.24,DraftKings,9.02,90.98,12.81,0.8865
+2025-04-17 13:44:54,soccer_epl,Nottingham Forest,Tottenham Hotspur,2.7,BetRivers,2.55,FanDuel,48.57,51.43,31.14,0.7625
+2025-04-17 13:44:54,soccer_epl,Aston Villa,Manchester City,4.3,FanDuel,1.75,BetRivers,28.93,71.07,24.38,0.8040
+2025-04-17 13:44:54,soccer_epl,Arsenal,Crystal Palace,1.5,BetMGM,7.0,FanDuel,82.35,17.65,23.53,0.8095
+2025-04-17 13:44:54,soccer_epl,Chelsea,Everton,1.74,FanDuel,5.3,BetRivers,75.28,24.72,30.99,0.7634
+2025-04-17 13:44:54,soccer_epl,Brighton and Hove Albion,West Ham United,1.67,BetMGM,5.1,FanDuel,75.33,24.67,25.81,0.7949
+2025-04-17 13:44:54,soccer_epl,Fulham,Southampton,1.62,FanDuel,5.5,BetRivers,77.25,22.75,25.14,0.7991
+2025-04-17 13:44:54,soccer_epl,Ipswich Town,Newcastle United,12.0,FanDuel,1.25,Bovada,9.43,90.57,13.21,0.8833
+2025-04-17 13:44:54,soccer_epl,Leicester City,Wolverhampton Wanderers,5.8,FanDuel,1.62,Bovada,21.83,78.17,26.63,0.7897
+2025-04-17 13:44:54,soccer_epl,Bournemouth,Manchester United,2.05,BetMGM,3.6,FanDuel,63.72,36.28,30.62,0.7656
+2025-04-17 13:44:54,soccer_epl,Liverpool,Tottenham Hotspur,1.35,BetRivers,8.0,FanDuel,85.56,14.44,15.51,0.8657
+2025-04-17 13:44:54,soccer_epl,Brentford,Nottingham Forest,3.3,FanDuel,2.2,DraftKings,40.0,60.0,32.0,0.7576
+2025-04-17 13:44:54,baseball_mlb,Pittsburgh Pirates,Washington Nationals,1.38,Bovada,3.8,FanDuel,73.36,26.64,1.24,0.9878
+2025-04-17 13:44:54,baseball_mlb,Cincinnati Reds,Seattle Mariners,2.0,DraftKings,2.24,FanDuel,52.83,47.17,5.66,0.9464
+2025-04-17 13:52:47,soccer_epl,Bournemouth,Crystal Palace,2.75,BetMGM,2.66,LowVig.ag,49.17,50.83,35.21,0.7396
+2025-04-17 13:52:47,soccer_epl,Brentford,Brighton and Hove Albion,2.55,LowVig.ag,2.8,BetRivers,52.34,47.66,33.46,0.7493
+2025-04-17 13:52:47,soccer_epl,Everton,Manchester City,4.0,FanDuel,1.98,BetOnline.ag,33.11,66.89,32.44,0.7551
+2025-04-17 13:52:47,soccer_epl,Southampton,West Ham United,6.75,BetRivers,1.51,BetOnline.ag,18.28,81.72,23.4,0.8104
+2025-04-17 13:52:47,soccer_epl,Aston Villa,Newcastle United,2.45,DraftKings,2.92,BetOnline.ag,54.38,45.62,33.22,0.7506
+2025-04-17 13:52:47,soccer_epl,Arsenal,Ipswich Town,1.43,BetMGM,8.35,LowVig.ag,85.38,14.62,22.09,0.8191
+2025-04-17 13:52:47,soccer_epl,Chelsea,Fulham,2.46,LowVig.ag,2.88,BetRivers,53.93,46.07,32.67,0.7537
+2025-04-17 13:52:47,soccer_epl,Manchester United,Wolverhampton Wanderers,2.02,LowVig.ag,3.8,LowVig.ag,65.29,34.71,31.89,0.7582
+2025-04-17 13:52:47,soccer_epl,Leicester City,Liverpool,12.5,BetRivers,1.24,DraftKings,9.02,90.98,12.81,0.8865
+2025-04-17 13:52:47,soccer_epl,Nottingham Forest,Tottenham Hotspur,2.7,BetRivers,2.55,FanDuel,48.57,51.43,31.14,0.7625
+2025-04-17 13:52:47,soccer_epl,Aston Villa,Manchester City,4.3,FanDuel,1.75,BetRivers,28.93,71.07,24.38,0.804
+2025-04-17 13:52:47,soccer_epl,Arsenal,Crystal Palace,1.5,BetMGM,7.0,FanDuel,82.35,17.65,23.53,0.8095
+2025-04-17 13:52:47,soccer_epl,Chelsea,Everton,1.74,FanDuel,5.3,BetRivers,75.28,24.72,30.99,0.7634
+2025-04-17 13:52:47,soccer_epl,Brighton and Hove Albion,West Ham United,1.67,BetMGM,5.1,FanDuel,75.33,24.67,25.81,0.7949
+2025-04-17 13:52:47,soccer_epl,Fulham,Southampton,1.62,FanDuel,5.5,BetRivers,77.25,22.75,25.14,0.7991
+2025-04-17 13:52:47,soccer_epl,Ipswich Town,Newcastle United,12.0,FanDuel,1.25,Bovada,9.43,90.57,13.21,0.8833
+2025-04-17 13:52:47,soccer_epl,Leicester City,Wolverhampton Wanderers,5.8,FanDuel,1.62,Bovada,21.83,78.17,26.63,0.7897
+2025-04-17 13:52:47,soccer_epl,Bournemouth,Manchester United,2.05,BetMGM,3.6,FanDuel,63.72,36.28,30.62,0.7656
+2025-04-17 13:52:47,soccer_epl,Liverpool,Tottenham Hotspur,1.35,BetRivers,8.0,FanDuel,85.56,14.44,15.51,0.8657
+2025-04-17 13:52:47,soccer_epl,Brentford,Nottingham Forest,3.3,FanDuel,2.2,DraftKings,40.0,60.0,32.0,0.7576
+2025-04-17 13:52:47,baseball_mlb,Arizona Diamondbacks,Miami Marlins,1.12,BetMGM,10.0,FanDuel,89.93,10.07,0.72,0.9929
+2025-04-17 13:52:47,baseball_mlb,Pittsburgh Pirates,Washington Nationals,1.38,Bovada,5.0,MyBookie.ag,78.37,21.63,8.15,0.9246
+2025-04-17 13:52:47,baseball_mlb,Cincinnati Reds,Seattle Mariners,3.3,BetMGM,2.24,FanDuel,40.43,59.57,33.43,0.7495
+2025-04-17 13:55:58,soccer_epl,Bournemouth,Crystal Palace,2.75,BetMGM,2.66,LowVig.ag,49.17,50.83,35.21,0.7396
+2025-04-17 13:55:58,soccer_epl,Brentford,Brighton and Hove Albion,2.55,LowVig.ag,2.8,BetRivers,52.34,47.66,33.46,0.7493
+2025-04-17 13:55:58,soccer_epl,Everton,Manchester City,4.0,FanDuel,1.98,BetOnline.ag,33.11,66.89,32.44,0.7551

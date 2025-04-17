@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific
+.DS_Store
+
+# Logs and sensitive files
+arbitrage_log.csv
+config.py
+
+# IDEs
+.vscode/
+.idea/

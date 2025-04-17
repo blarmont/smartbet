@@ -19,7 +19,8 @@
 # @raycast.argument3 { "type": "text", "placeholder": "Sport (basketball_nba)", "optional": true }
 
 import sys
-sys.path.append("/Users/blas/Desktop/Codes/Python Codes/SportsBetter")
+from config import FOLDER_PATH
+sys.path.append(FOLDER_PATH)
 
 from core import get_odds_for_sport, find_arbitrage, SPORTS
 

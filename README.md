@@ -9,7 +9,7 @@
 
 SmartBet is a Python-based arbitrage betting assistant that analyzes real-time odds from various sportsbooks using The Odds API to identify guaranteed profit opportunities. It calculates optimal stake distributions to lock in profits and includes both a CLI and GUI, along with a Raycast script for one-click top picks.
 
-* Disclaimer: * SmartBet is currently not connected to any betting accounts. Please be aware that arbitrage betting may be subject to legal restrictions in your jurisdiction. It is your responsibility to ensure compliance with local laws and regulations regarding betting and gambling.
+* Disclaimer: SmartBet is currently not connected to any betting accounts and data are samples. Please be aware that arbitrage betting may be subject to legal restrictions in your jurisdiction. It is your responsibility to ensure compliance with local laws and regulations regarding betting and gambling.
 
 ---
 

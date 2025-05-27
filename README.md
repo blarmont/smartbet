@@ -16,10 +16,10 @@ SmartBet is a Python-based arbitrage betting assistant that analyzes real-time o
 ## 🎥 Demo
 
 ### CLI Mode
-![CLI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/demo/sb_cli.gif)
+![CLI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/sb_cli.gif)
 
 ### GUI Mode via Streamlit
-![GUI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/demo/sb_gui.gif)
+![GUI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/sb_gui.gif)
 
 
 ---

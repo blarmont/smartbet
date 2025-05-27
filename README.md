@@ -17,9 +17,7 @@ SmartBet is a Python-based arbitrage betting assistant that analyzes real-time o
 
 | CLI Mode                            | GUI Mode via Streamlit                   |
 |------------------------------------|------------------------------------------|
-| ![CLI Demo](https://raw.githubusercontent.com/YOUR_USERNAME/smartbet/main/demo/cli.gif) | ![GUI Demo](https://raw.githubusercontent.com/YOUR_USERNAME/smartbet/main/demo/gui.gif) |
-
-> 🎬 You can generate these by screen recording and converting to GIF using [ezgif](https://ezgif.com/video-to-gif) or [Kap](https://getkap.co).
+| ![CLI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/demo/sb_cli.gif) | ![GUI Demo](https://raw.githubusercontent.com/blarmont/smartbet/main/demo/sb_gui.gif) |
 
 ---
 
@@ -151,15 +149,6 @@ __pycache__/
 arbitrage_log.csv
 .env
 ```
-
----
-
-## 🧼 Before Uploading to GitHub
-
-- ❌ Remove or hide your real API key in `config.py`
-- ✅ Use `config_template.py` in your repo
-- ❌ Exclude logs containing personal betting info
-- ✅ Replace local file paths with relative paths or placeholders
 
 ---
 
